@@ -1,0 +1,63 @@
+body{
+    font-family: 'Lexend Deca', sans-serif;
+}
+.bg-blue{
+  background-color:hsl(233, 47%, 7%) ;  
+}
+.bg-card{
+    background-color: hsl(244, 38%, 16%);
+}
+.voilet{
+    color: hsl(277, 64%, 61%);   
+}
+.para{
+    color: hsla(0, 0%, 100%, 0.6) ;
+}
+.para1{
+    color: hsla(0, 0%, 100%, 0.6) ;
+}
+
+
+
+
+
+
+
+@media screen and (max-width: 1440px) {
+ .left-img{
+     width: 100%;
+     height: 446px;
+ }}
+
+@media screen and (max-width: 1200px) {
+ .left-img{
+     width: 100%;
+     height: 446px;
+ }
+    
+}
+@media screen and (max-width: 786px) {
+ .left-img{
+     width:100%;
+     /* margin: 3rem; */
+     height: 100%;
+ }
+ 
+    
+}
+
+
+
+
+
+
+.card-img-1{
+    /* width: 100%; */
+    height: 100%;
+    background: #661f96;
+    overflow: hidden;
+
+}
+img{
+    opacity: .4;
+}
